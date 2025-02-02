@@ -168,20 +168,20 @@ footer {
   }
 }
 
-@keyframes slide-in{
-from{
-  left:0;
+@keyframes slide-in {
+  from {
+    left: 0;
   }
-  to{
-  left: 50%;
+  to {
+    left: 50%;
   }
 }
 
-@keyframes slide-out{
-  from{
+@keyframes slide-out {
+  from {
     left: 50%;
   }
-  to{
+  to {
     left: 0;
   }
 }
